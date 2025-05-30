@@ -1,0 +1,30 @@
+{
+  "name": "dev.misutaaasriel.vrcescalator",
+  "version": "1.0.1",
+  "displayName": "VRC Escalators",
+  "description": "This is a package for providing seamless escalators in VRChat",
+  "unity": "2022.3",
+  "unityRelease": "22f1",
+  "vpmDependencies": {
+    "com.vrchat.worlds": "^3.8"
+  },
+  "dependencies": {
+    "com.vrchat.worlds": "3.8.0"
+ },
+  "legacyFolders": {
+  },
+  "legacyFiles": {
+  },
+ "keywords": [
+    "escalator",
+    "unity",
+    "vrchat",
+    "utility"
+  ],
+  "url": "https://github.com/MisutaaAsriel/VRC-Escalators/archive/refs/heads/main.zip",
+  "author": {
+    "name": "Azi // Asriel Dreemurr (@MisutaaAsriel)"
+  },
+  "samples": [
+  ]
+}
